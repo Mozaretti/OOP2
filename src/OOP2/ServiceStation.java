@@ -1,3 +1,4 @@
+package OOP2;
 public class ServiceStation {
     public void check(Car car, Bicycle bicycle, Truck truck) {
         if (car != null) {

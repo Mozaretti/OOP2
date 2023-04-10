@@ -1,3 +1,4 @@
+package OOP2;
 public class Truck {
     public String modelName;
     public int wheelsCount;
