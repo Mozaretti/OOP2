@@ -2,6 +2,7 @@ import OOP2.Bicycle;
 import OOP2.Car;
 import OOP2.ServiceStation;
 import OOP2.Truck;
+
 public class Main {
     public static void main(String[] args) {
         Car car = new Car();
